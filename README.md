@@ -4,7 +4,7 @@ Card type structure showing information about a particular person.
 
 Uses
 ====
-Styles
-------
-[SASS](http://sass-lang.com/)
-[Bourbon Neat](http://neat.bourbon.io/)
+- [AngularJs](http://angularjs.org/)
+- [angular-seed](https://github.com/angular/angular-seed)
+- [SASS](http://sass-lang.com/)
+- [Bourbon Neat](http://neat.bourbon.io/)

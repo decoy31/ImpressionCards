@@ -1,0 +1,25 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+* {
+  font-family: Calibri, Myriad, "Helvetica Neue", Arial, sans-serif; }
+
+section {
+  *zoom: 1;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  section:before, section:after {
+    content: " ";
+    display: table; }
+  section:after {
+    clear: both; }
+  section article {
+    display: block;
+    float: left;
+    margin-right: 2.5641%;
+    width: 28.20513%; }
+    section article:last-child {
+      margin-right: 0; }

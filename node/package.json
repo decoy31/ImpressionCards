@@ -1,0 +1,13 @@
+{
+	"name": "impression-cards",
+	"description": "Node JS build tools for Impression Cards",
+	"version": "0.0.1",
+	"author": "Tim Duffey",
+	"contributors": [{
+		"name": "Tim Duffey",
+		"email": "duffeyt@gmail.com"
+	}],
+	"dependencies": {
+		"connect": "*"
+	}
+}

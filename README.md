@@ -38,7 +38,7 @@ and [/app/data/users](https://github.com/decoy31/ImpressionCards/tree/master/app
 The title of each file is the user id and the content of each file relates to title's user id for the given context 
 (e.g: logs have the log information specific to the user matching the file title's user id). This allows me to take a 
 more RESTful approach for accessing the project's data. Therefore, if I want to get the logs for the user with an id 
-of 3, I simply type in the following URL: "http://localhost/data/logs/1".
+of 3, I simply access the following URL: "http://localhost/data/logs/3".
 
 ####Node Package Prerequisite
 The following [NPM](https://npmjs.org/) package must be installed either locally under the 

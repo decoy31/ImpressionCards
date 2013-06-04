@@ -8,12 +8,11 @@ Card type structure showing information about a particular person.
 - [JSON3](https://github.com/bestiejs/json3)
 
 ##Server
-This project is server agnostic and can be hosted on any web server that can serve up static html pages. However, for 
-convenience, I have included a Node server. I have detailed what I did to the server to get it to work for me and how 
-you can start the server up yourself.
+This project is server agnostic and can be hosted on any web server that can serve up static html pages.
 
 ###Node Server
-This section assumes you have knowledge about and have already installed [NodeJS](http://nodejs.org/) on your machine.
+For convenience, I have included a Node server configuration in the project. This section assumes you have knowledge 
+about and have already installed [NodeJS](http://nodejs.org/) on your machine.
 
 My Node server configuration and code can be found under 
 [/scripts/webserver.js](https://github.com/decoy31/ImpressionCards/blob/master/scripts/web-server.js). Most of the

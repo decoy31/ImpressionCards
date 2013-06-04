@@ -4,7 +4,7 @@
 
 describe('my app', function() {
 
-  beforeEach(function() {
+  /*beforeEach(function() {
     browser().navigateTo('../../app/index.html');
   });
 
@@ -41,5 +41,5 @@ describe('my app', function() {
         toMatch(/partial for view 2/);
     });
 
-  });
+  });*/
 });

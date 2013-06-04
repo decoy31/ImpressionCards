@@ -8,3 +8,4 @@ Uses
 - [angular-seed](https://github.com/angular/angular-seed)
 - [SASS](http://sass-lang.com/)
 - [Bourbon Neat](http://neat.bourbon.io/)
+- [JSON3](https://github.com/bestiejs/json3)

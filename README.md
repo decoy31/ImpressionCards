@@ -40,11 +40,11 @@ individual files based on the "user_id" property of each of the objects in the j
 function call can be found under [/app/data/logs](https://github.com/decoy31/ImpressionCards/tree/master/app/data/logs)
 and [/app/data/users](https://github.com/decoy31/ImpressionCards/tree/master/app/data/users), repectively.
 
-The title of each file is the user id and the content of each file relates to the file title's user id for the given context
-(e.g: logs have the log information specific to the user matching the file title's user id). This allows me to take a
-more RESTful approach for accessing the project's data. Therefore, if I want to get the logs for the user with an id
-of 3, I simply access the following URL: "http://localhost/data/logs/3". As a nice side effect, piecing out the data
-like I did, makes for less data having to go over the "wire".
+The title of each file is the user id and the content of each file relates to the file title's user id for the given 
+context (e.g: logs have the log information specific to the user matching the file title's user id). This allows me to 
+take a more RESTful approach for accessing the project's data. Therefore, if I want to get the logs for the user with 
+an id of 3, I simply access the following URL: "http://localhost/data/logs/3". As a nice side effect, piecing out the 
+data like I did, makes for less data having to go over the "wire".
 
 ####Node Package Prerequisite
 The following [NPM](https://npmjs.org/) package must be installed either locally under the
@@ -84,8 +84,8 @@ considerable amount of time (about 18 hours) over that weekend to learn AngularJ
 [AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) training
 course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. You can view my Pluralsight 
 course work in each of the branches of my forked version of the 
-[angular-seed project](https://github.com/angular/angular-seed) in my 
-[angular-seed repository](https://github.com/decoy31/angular-seed/branches). As of noon on Tuesday, June 4th, 2013,
+[angular-seed project](https://github.com/angular/angular-seed) in 
+[my angular-seed repository](https://github.com/decoy31/angular-seed/branches). As of noon on Tuesday, June 4th, 2013,
 the ImpressionCards project is still a work in progress. All tolled, I have spent close to 40 hours on this project; 
 a good chunk of my free time. But I figure, what I learned from this project will definitely help me anytime in the 
 future.

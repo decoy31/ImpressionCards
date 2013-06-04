@@ -5,9 +5,15 @@ logs for each user. The log data set describes one month of "impressions", "conv
 each user. ImpressionCard aggregates the sample data into a card format, enabling quick, easy access to
 user information for stakeholders.
 
-##Libraries, Frameworks, Utilities
-- [AngularJs](http://angularjs.org/)
+##Libraries, Frameworks, Utilities, etc.
+
+The following are libraries, frameworks, utilities, and other code I used for this project. Use the following links to 
+as a reference when working with this project:
+
 - [angular-seed](https://github.com/angular/angular-seed)
+- [AngularJS](http://angularjs.org/)
+- [AngularJS Fundamentals exercise files](http://pluralsight.com/training/Courses/ExerciseFiles/angularjs-fundamentals) 
+([Pluralsight](http://pluralsight.com/) training course; paid subscription required to access files)
 - [Bootstrap](http://twitter.github.io/bootstrap/)
 - [jQuery](http://jquery.com/)
 - [JSON3](https://github.com/bestiejs/json3)

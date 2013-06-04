@@ -75,6 +75,6 @@ learned is it applies well for the grid requirement.
 Unfortunately, I did not know AngularJS before starting this project Friday, May 31st, 2013. I took about 18 hours 
 over that weekend to learn AngularJS through the 
 [AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) training 
-course on [Pluralsight](http://pluralsight.com/) and Bootstrap from itself website. As of noon on June 4th, 2013, 
+course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. As of noon on June 4th, 2013, 
 the project is still a work in progress. All tolled, I have spent close to 40 hours on this project, a good chunk of
 my free time. But I figure, what I learned from this project, will definately help me anytime in the future.

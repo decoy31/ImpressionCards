@@ -1,5 +1,9 @@
 #Impression Cards
-Card type structure showing information about a particular person.
+
+The ImpressionCard project comes with sample data sets including some simple user information and sample
+logs for each user. The log data set describes one month of "impressions", "conversions", and "revenue" associated with
+each user. ImpressionCard aggregrates the sample data into a card format, enabling quick, easy access to
+user information for stakeholders.
 
 ##Libraries, Frameworks, Utilities
 - [AngularJs](http://angularjs.org/)

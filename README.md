@@ -18,6 +18,13 @@ as a reference when working with this project:
 - [jQuery](http://jquery.com/)
 - [JSON3](https://github.com/bestiejs/json3)
 
+I apologize for the paid subscription link for the Pluralsight training course. Out of respect for the staff at 
+Pluralsight and all their hard work helping me learn many different programming topics, I will not post the exercise
+files. I am just giving credit where credit is due. In additon, I did not want to get in trouble for posting all of the 
+exercise files on GitHub, not to mention, I paid a lot of money for the subscription. The one file I used from the 
+exercise files was the [web-server.js](https://github.com/decoy31/ImpressionCards/blob/master/scripts/web-server.js) 
+file, for which, I customized to my needs for this project.
+
 ##Server
 This project is server agnostic and can be hosted on any web server that can serve up static html pages.
 

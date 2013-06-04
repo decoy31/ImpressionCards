@@ -79,8 +79,8 @@ responsive design; able to be viewed on different platforms. I had never used
 learned is it applies well for the grid requirement.
 
 ###Why is the UI Not Finished?
-Unfortunately, I did not know AngularJS before starting this project Friday, May 31st, 2013. I took about 18 hours
-over that weekend to learn AngularJS through the
+Unfortunately, I did not know AngularJS or Bootstrap before starting this project Friday, May 31st, 2013. I took about 
+18 hours over that weekend to learn AngularJS through the
 [AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) training
 course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. You can view my course work
 in each of the branches of my forked version of the angular-seed project in my

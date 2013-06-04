@@ -40,7 +40,7 @@ individual files based on the "user_id" property of each of the objects in the j
 function call can be found under [/app/data/logs](https://github.com/decoy31/ImpressionCards/tree/master/app/data/logs)
 and [/app/data/users](https://github.com/decoy31/ImpressionCards/tree/master/app/data/users), repectively.
 
-The title of each file is the user id and the content of each file relates to title's user id for the given context
+The title of each file is the user id and the content of each file relates to the file title's user id for the given context
 (e.g: logs have the log information specific to the user matching the file title's user id). This allows me to take a
 more RESTful approach for accessing the project's data. Therefore, if I want to get the logs for the user with an id
 of 3, I simply access the following URL: "http://localhost/data/logs/3". As a nice side effect, piecing out the data

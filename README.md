@@ -21,7 +21,7 @@ code is a combination of
 [angular-seed's webserver.js](https://github.com/angular/angular-seed/blob/master/scripts/web-server.js) and the 
 AngularJS Fundamentals 
 
-####Node Package Prerequisits
+####Node Package Prerequisites
 The following [NPM](https://npmjs.org/) packages must be installed before the Node server will start:
 
 - [path](https://npmjs.org/package/path)

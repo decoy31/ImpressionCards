@@ -1,6 +1,6 @@
-#Impression Cards
+#ImpressionCards
 
-The ImpressionCard project comes with sample data sets including some simple user information and sample
+The ImpressionCards project comes with sample data sets including some simple user information and sample
 logs for each user. The log data set describes one month of "impressions", "conversions", and "revenue" associated with
 each user. ImpressionCard aggregates the sample data into a card format, enabling quick, easy access to
 user information for stakeholders.

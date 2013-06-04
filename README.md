@@ -21,17 +21,20 @@ code is a combination of
 [angular-seed's webserver.js](https://github.com/angular/angular-seed/blob/master/scripts/web-server.js) and the 
 AngularJS Fundamentals 
 
-####Node Package Prerequisites
-The following [NPM](https://npmjs.org/) packages must be installed before the Node server will start:
+####Node Package Prerequisite
+The following [NPM](https://npmjs.org/) package must be installed either locally under the 
+[/scripts](https://github.com/decoy31/ImpressionCards/blob/master/scripts) directory or globally on your machine
+before the Node server will function properly:
 
 - [path](https://npmjs.org/package/path)
 
 ####Node Server Startup
-To start up the server on a Windows machine you need to make sure you start the server under the correct root 
-directory. To do this you need to type in to the Command Prompt the following:
+To start up the server on a Windows machine you need to make sure you start the server under the correct working  
+directory. To do this, browse to the ImpressionCard project's "app" directory in the command prompt. Then type 
+the following:
 
 ```dos
 C:/ImpressionCards/app> node ../scripts/web-server.js
 ```
 
-Notice we are starting the node server the working directory is ImpressionCard's "app" directory.
+Notice when we are starting the node server our working directory is the "app" folder.

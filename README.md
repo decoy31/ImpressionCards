@@ -79,11 +79,13 @@ responsive design; able to be viewed on different platforms. I had never used
 learned is it applies well for the grid requirement.
 
 ###Why is the UI Not Finished?
-Unfortunately, I did not know AngularJS or Bootstrap before starting this project Friday, May 31st, 2013. I took about 
-18 hours over that weekend to learn AngularJS through the
+Unfortunately, when I started this project on Friday, May 31st, 2013, I did not know AngularJS or Bootstrap. I spent a 
+considerable amount of time (about 18 hours) over that weekend to learn AngularJS through the
 [AngularJS Fundamentals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) training
-course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. You can view my course work
-in each of the branches of my forked version of the angular-seed project in my
-[angular-seed repository](https://github.com/decoy31/angular-seed/branches). As of noon on June 4th, 2013,
-the project is still a work in progress. All tolled, I have spent close to 40 hours on this project; a good chunk of
-my free time. But I figure, what I learned from this project will definitely help me anytime in the future.
+course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. You can view my Pluralsight 
+course work in each of the branches of my forked version of the 
+[angular-seed project](https://github.com/angular/angular-seed) in my 
+[angular-seed repository](https://github.com/decoy31/angular-seed/branches). As of noon on Tuesday, June 4th, 2013,
+the ImpressionCards project is still a work in progress. All tolled, I have spent close to 40 hours on this project; 
+a good chunk of my free time. But I figure, what I learned from this project will definitely help me anytime in the 
+future.

@@ -59,7 +59,7 @@ directory. To do this, browse to the ImpressionCard project's "app" directory in
 the following:
 
 ```dos
-C:/ImpressionCards/app> node ../scripts/web-server.js
+C:\ImpressionCards\app> node ..\scripts\web-server.js
 ```
 
 Notice when we are starting the node server our working directory is the "app" folder.

@@ -62,7 +62,7 @@ Notice when we are starting the node server our working directory is the "app" f
 
 ###AngularJS
 I chose to go with [AngularJs](http://angularjs.org/) for both its power and simplity. I like the AMD approach, where 
-code is split up into to modules and the templating system is really useful when aggrating data. I have used a somewhat 
+code is split up into modules and the templating system is really useful when aggrating data. I have used a somewhat 
 similar designed tookit called [Dojo](http://dojotoolkit.org/), but AngularJS makes more sense to me.
 
 ###Bootstrap

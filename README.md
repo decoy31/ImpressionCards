@@ -84,5 +84,5 @@ over that weekend to learn AngularJS through the
 course on [Pluralsight](http://pluralsight.com/) and Bootstrap from the project's website. You can view my course work
 in each of the branches of my forked version of the angular-seed project in my
 [angular-seed repository](https://github.com/decoy31/angular-seed/branches). As of noon on June 4th, 2013,
-the project is still a work in progress. All tolled, I have spent close to 40 hours on this project, a good chunk of
-my free time. But I figure, what I learned from this project, will definitely help me anytime in the future.
+the project is still a work in progress. All tolled, I have spent close to 40 hours on this project; a good chunk of
+my free time. But I figure, what I learned from this project will definitely help me anytime in the future.

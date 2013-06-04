@@ -9,6 +9,7 @@ user information for stakeholders.
 - [AngularJs](http://angularjs.org/)
 - [angular-seed](https://github.com/angular/angular-seed)
 - [Bootstrap](http://twitter.github.io/bootstrap/)
+- [jQuery](http://jquery.com/)
 - [JSON3](https://github.com/bestiejs/json3)
 
 ##Server

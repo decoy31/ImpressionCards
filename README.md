@@ -50,8 +50,9 @@ course on [Pluralsight](http://pluralsight.com/). However, I did add the followi
 [users.json](https://github.com/decoy31/ImpressionCards/blob/master/app/data/users.json) and
 [logs.json](https://github.com/decoy31/ImpressionCards/blob/master/app/data/logs.json)) and piece the data out into
 individual files based on the "user_id" property of each of the objects in the json files. The end result of each
-function call can be found under [/app/data/logs](https://github.com/decoy31/ImpressionCards/tree/master/app/data/logs)
-and [/app/data/users](https://github.com/decoy31/ImpressionCards/tree/master/app/data/users), repectively.
+function call can be found under 
+[/app/data/users](https://github.com/decoy31/ImpressionCards/tree/master/app/data/users) and 
+[/app/data/logs](https://github.com/decoy31/ImpressionCards/tree/master/app/data/logs), repectively.
 
 The title of each file is the user id and the content of each file relates to the file title's user id for the given 
 context (e.g: logs have the log information specific to the user matching the file title's user id). This allows me to 
